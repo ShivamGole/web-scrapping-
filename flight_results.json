@@ -1,0 +1,102 @@
+[
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-123",
+    "departure": "06:30",
+    "arrival": "09:10",
+    "price": "\u20b95,450",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "Air India",
+    "flight_number": "AI-504",
+    "departure": "07:15",
+    "arrival": "09:55",
+    "price": "\u20b96,120",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "SpiceJet",
+    "flight_number": "SG-8256",
+    "departure": "08:45",
+    "arrival": "11:25",
+    "price": "\u20b94,890",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "GoAir",
+    "flight_number": "G8-456",
+    "departure": "09:20",
+    "arrival": "12:00",
+    "price": "\u20b95,100",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "Vistara",
+    "flight_number": "UK-834",
+    "departure": "10:00",
+    "arrival": "12:40",
+    "price": "\u20b97,200",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "AirAsia",
+    "flight_number": "I5-234",
+    "departure": "12:15",
+    "arrival": "14:55",
+    "price": "\u20b93,450",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-567",
+    "departure": "14:30",
+    "arrival": "17:10",
+    "price": "\u20b95,890",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "Air India",
+    "flight_number": "AI-608",
+    "departure": "16:00",
+    "arrival": "18:40",
+    "price": "\u20b96,450",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "SpiceJet",
+    "flight_number": "SG-8890",
+    "departure": "17:45",
+    "arrival": "20:25",
+    "price": "\u20b95,200",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-901",
+    "departure": "19:15",
+    "arrival": "21:55",
+    "price": "\u20b96,100",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+  }
+]
