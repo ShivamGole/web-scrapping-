@@ -7,7 +7,7 @@
     "price": "\u20b95,450",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "Air India",
@@ -17,7 +17,7 @@
     "price": "\u20b96,120",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "SpiceJet",
@@ -27,7 +27,7 @@
     "price": "\u20b94,890",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "GoAir",
@@ -37,7 +37,7 @@
     "price": "\u20b95,100",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "Vistara",
@@ -47,7 +47,7 @@
     "price": "\u20b97,200",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "AirAsia",
@@ -57,7 +57,7 @@
     "price": "\u20b93,450",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "IndiGo",
@@ -67,7 +67,7 @@
     "price": "\u20b95,890",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "Air India",
@@ -77,7 +77,7 @@
     "price": "\u20b96,450",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "SpiceJet",
@@ -87,7 +87,7 @@
     "price": "\u20b95,200",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   },
   {
     "airline": "IndiGo",
@@ -97,6 +97,6 @@
     "price": "\u20b96,100",
     "origin": "Bangalore",
     "destination": "Delhi",
-    "searchdatetime": "2025-10-20T08:08:38.020738Z"
+    "searchdatetime": "2025-10-31T05:44:15.900704Z"
   }
 ]

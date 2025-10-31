@@ -9,7 +9,7 @@ with open('api_key.txt', 'r') as f:
 
 # Configure Cerebras (OpenAI-compatible)
 client = OpenAI(
-    api_key=API_KEY,
+    api_key='csk_chm8ecccc54dfhmn38t8jdpwy3erf44pnmctydecnepy9xrt',
     base_url="https://api.cerebras.ai/v1"
 )
 
